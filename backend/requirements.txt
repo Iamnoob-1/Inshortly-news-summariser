@@ -1,0 +1,6 @@
+flask
+flask-cors
+transformers==4.30.2
+tokenizers==0.13.3
+torch
+gunicorn
